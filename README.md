@@ -3,6 +3,10 @@
 
 ## top languages
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=slotthyyy&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
+
+## skills
+
+[![My Skills](https://skillicons.dev/icons?i=godot,figma,rust,py,pytorch,lua,zig,c,cpp&theme=dark)](https://skillicons.dev)
 <!--
 **slotthyyy/slotthyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
