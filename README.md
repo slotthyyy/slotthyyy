@@ -1,7 +1,8 @@
-## Hi there 👋
+## overall stats
+[![Slotthyyy's GitHub stats](https://github-stats-extended.vercel.app/api?username=slotthyyy)](https://github.com/stats-organization/github-stats-extended)  
 
-[![Slotthyyy's GitHub stats](https://github-stats-extended.vercel.app/api?username=slotthyyy)](https://github.com/stats-organization/github-stats-extended)  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-
+## top languages
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=slotthyyy)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **slotthyyy/slotthyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
