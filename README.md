@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 -->
 
 ## Test
-(Background.png)
+<img title="a title" alt="Alt text" src="/Background.png">
